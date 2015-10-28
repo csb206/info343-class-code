@@ -11,3 +11,19 @@ body {
     display: none;
 }
 
+.fa-spin {
+    display: none;
+}
+
+#tasks-list li {
+    cursor: pointer;
+}
+
+.completed-task {
+    color: #AAA;
+    text-decoration: line-through;
+}
+
+#rating {
+    color: #FFD700;
+}
